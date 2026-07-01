@@ -1,4 +1,4 @@
-# 💳 Detecção de Anomalias: Fraudes em Cartões de Crédito
+# 💳 Detecção de Fraudes em Cartões de Crédito com Machine Learning
 
 Pipeline de Machine Learning para classificação de eventos raros e tratamento de dados desbalanceados.
 
